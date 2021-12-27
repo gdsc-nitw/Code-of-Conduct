@@ -1,5 +1,7 @@
 # Development Workflow
 
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/fga8hUxd8T)
+
 ## Contributors
 
 ```fork -> clone -> make changes -> push -> create PR```

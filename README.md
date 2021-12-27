@@ -1,10 +1,13 @@
-# GDSC Code of Conduct
+# Code of Conduct
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
+
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/fga8hUxd8T)
 
 Welcome to Google Development Student Clubs, NIT Warangal. In this repository you will find all the information 
 associated with the developement workflow and code of conduct for projects hosted by GDSC club. In case of any
-anomaly in documentation, suggestions or dispute please reach out to core members on our [Discord Server]().
+anomaly in documentation, suggestions or dispute please reach out to core members on our [Discord Server](https://discord.gg/fga8hUxd8T).
 
 This page consist of only *Code of Code* for GDSC github organization. Read [Developer Workflow](Workflow.md).
 

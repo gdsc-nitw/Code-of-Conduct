@@ -2,6 +2,10 @@
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/fga8hUxd8T)
 
+## Code of Conduct
+
+Read [Code of Conduct](README.md).
+
 ## Contributors
 
 ```fork -> clone -> make changes -> push -> create PR```
